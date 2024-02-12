@@ -99,7 +99,7 @@
 
 
 
-# text = "Hello"
-# uppercase_text=text.upper()
-# print(text)
-# print(uppercase_text)
+text = "Hello"
+uppercase_text=text.upper()
+print(text)
+print(uppercase_text)
